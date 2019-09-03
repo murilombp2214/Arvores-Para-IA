@@ -1,0 +1,26 @@
+C:\Users\MURILO\source\repos\IA_Arvore\IA_Arvore\obj\Debug\IA_Arvore.UI.csprojAssemblyReference.cache
+C:\Users\MURILO\source\repos\IA_Arvore\IA_Arvore\obj\Debug\IA_Arvore.FrmPrincipal.resources
+C:\Users\MURILO\source\repos\IA_Arvore\IA_Arvore\obj\Debug\IA_Arvore.Properties.Resources.resources
+C:\Users\MURILO\source\repos\IA_Arvore\IA_Arvore\obj\Debug\IA_Arvore.UI.csproj.GenerateResource.cache
+C:\Users\MURILO\source\repos\IA_Arvore\IA_Arvore\obj\Debug\IA_Arvore.UI.csproj.CoreCompileInputs.cache
+C:\Users\MURILO\source\repos\IA_Arvore\IA_Arvore\bin\Debug\IA_Arvore.exe.config
+C:\Users\MURILO\source\repos\IA_Arvore\IA_Arvore\bin\Debug\IA_Arvore.exe
+C:\Users\MURILO\source\repos\IA_Arvore\IA_Arvore\bin\Debug\IA_Arvore.pdb
+C:\Users\MURILO\source\repos\IA_Arvore\IA_Arvore\bin\Debug\IA_Arvore.Core.dll
+C:\Users\MURILO\source\repos\IA_Arvore\IA_Arvore\bin\Debug\IA_Arvore.Core.pdb
+C:\Users\MURILO\source\repos\IA_Arvore\IA_Arvore\obj\Debug\IA_Arvore.UI.csproj.CopyComplete
+C:\Users\MURILO\source\repos\IA_Arvore\IA_Arvore\obj\Debug\IA_Arvore.exe
+C:\Users\MURILO\source\repos\IA_Arvore\IA_Arvore\obj\Debug\IA_Arvore.pdb
+C:\Faculdade\Inteligencia Artificial\Lista 04\IA_Arvore\bin\Debug\IA_Arvore.exe.config
+C:\Faculdade\Inteligencia Artificial\Lista 04\IA_Arvore\bin\Debug\IA_Arvore.exe
+C:\Faculdade\Inteligencia Artificial\Lista 04\IA_Arvore\bin\Debug\IA_Arvore.pdb
+C:\Faculdade\Inteligencia Artificial\Lista 04\IA_Arvore\bin\Debug\IA_Arvore.Core.dll
+C:\Faculdade\Inteligencia Artificial\Lista 04\IA_Arvore\bin\Debug\IA_Arvore.Core.pdb
+C:\Faculdade\Inteligencia Artificial\Lista 04\IA_Arvore\obj\Debug\IA_Arvore.UI.csprojAssemblyReference.cache
+C:\Faculdade\Inteligencia Artificial\Lista 04\IA_Arvore\obj\Debug\IA_Arvore.FrmPrincipal.resources
+C:\Faculdade\Inteligencia Artificial\Lista 04\IA_Arvore\obj\Debug\IA_Arvore.Properties.Resources.resources
+C:\Faculdade\Inteligencia Artificial\Lista 04\IA_Arvore\obj\Debug\IA_Arvore.UI.csproj.GenerateResource.cache
+C:\Faculdade\Inteligencia Artificial\Lista 04\IA_Arvore\obj\Debug\IA_Arvore.UI.csproj.CoreCompileInputs.cache
+C:\Faculdade\Inteligencia Artificial\Lista 04\IA_Arvore\obj\Debug\IA_Arvore.UI.csproj.CopyComplete
+C:\Faculdade\Inteligencia Artificial\Lista 04\IA_Arvore\obj\Debug\IA_Arvore.exe
+C:\Faculdade\Inteligencia Artificial\Lista 04\IA_Arvore\obj\Debug\IA_Arvore.pdb

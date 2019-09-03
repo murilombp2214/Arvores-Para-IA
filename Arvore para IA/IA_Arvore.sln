@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IA_Arvore.UI", "IA_Arvore\IA_Arvore.UI.csproj", "{ADD237AD-A594-45D1-8E4A-07DC437E747F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IA_Arvore.Core", "Arvore\IA_Arvore.Core.csproj", "{79079DA4-50BC-4046-9383-4ECCC1597260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD237AD-A594-45D1-8E4A-07DC437E747F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD237AD-A594-45D1-8E4A-07DC437E747F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD237AD-A594-45D1-8E4A-07DC437E747F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD237AD-A594-45D1-8E4A-07DC437E747F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79079DA4-50BC-4046-9383-4ECCC1597260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79079DA4-50BC-4046-9383-4ECCC1597260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79079DA4-50BC-4046-9383-4ECCC1597260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79079DA4-50BC-4046-9383-4ECCC1597260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C3B3AF3-E775-4C70-9588-2CA4FEC5414B}
+	EndGlobalSection
+EndGlobal

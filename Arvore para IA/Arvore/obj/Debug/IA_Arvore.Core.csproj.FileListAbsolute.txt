@@ -1,0 +1,12 @@
+C:\Users\MURILO\source\repos\IA_Arvore\Arvore\bin\Debug\IA_Arvore.Core.dll
+C:\Users\MURILO\source\repos\IA_Arvore\Arvore\bin\Debug\IA_Arvore.Core.pdb
+C:\Users\MURILO\source\repos\IA_Arvore\Arvore\obj\Debug\IA_Arvore.Core.csprojAssemblyReference.cache
+C:\Users\MURILO\source\repos\IA_Arvore\Arvore\obj\Debug\IA_Arvore.Core.csproj.CoreCompileInputs.cache
+C:\Users\MURILO\source\repos\IA_Arvore\Arvore\obj\Debug\IA_Arvore.Core.dll
+C:\Users\MURILO\source\repos\IA_Arvore\Arvore\obj\Debug\IA_Arvore.Core.pdb
+C:\Faculdade\Inteligencia Artificial\Lista 04\Arvore\bin\Debug\IA_Arvore.Core.dll
+C:\Faculdade\Inteligencia Artificial\Lista 04\Arvore\bin\Debug\IA_Arvore.Core.pdb
+C:\Faculdade\Inteligencia Artificial\Lista 04\Arvore\obj\Debug\IA_Arvore.Core.csprojAssemblyReference.cache
+C:\Faculdade\Inteligencia Artificial\Lista 04\Arvore\obj\Debug\IA_Arvore.Core.csproj.CoreCompileInputs.cache
+C:\Faculdade\Inteligencia Artificial\Lista 04\Arvore\obj\Debug\IA_Arvore.Core.dll
+C:\Faculdade\Inteligencia Artificial\Lista 04\Arvore\obj\Debug\IA_Arvore.Core.pdb
